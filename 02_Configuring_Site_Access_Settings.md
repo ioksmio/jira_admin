@@ -1,4 +1,4 @@
-Lab 3 Exercise 2 Configuring Site Access Settings 
+## Lab 3 Exercise 2 Configuring Site Access Settings 
 ##### 1. From site administration, click ```Site access``` in the sidebar. Here you control how users get access to your site. 
 ##### 2. Generate an invitation URL:
 > a. Click ```Invite links```
