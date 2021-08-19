@@ -1,14 +1,18 @@
 ## Lab 4 Exercise 3 Managing Groups
 1. Create a group and add users:
-2. Navigate to the `Groups` site administration page (under USER MANAGEMENT).
-a. Note the DEFAULT ACCESS GROUP indicators next to the three default product access groups.
-b. Click `Create group`.
-i. For the name, enter `Development`.
-ii. Optionally for the description enter `Members of Development`. 
-iii. Select `Add members in the next step`
-iv. Click `Create group`.
-v. Select `Luis Beck` and `Sophie Nguyen`. 
-vi. Click `Add`.
+> a. Navigate to your Atlassian startpage by clicking your saved bookmark `bookmark-startpage Atlassian`
+> b. Click on the `Administration` button
+> c. Click on the link `YourName01.atlassian.net` and Click on `Overview` in the top menu bar. Bookmark this page and save it as `bookmark-Atlassian Admin Overview`
+> d. Click `Directory` in the top menu bar
+2. Navigate to the `Groups` in the side bar.
+> a. Note the DEFAULT ACCESS GROUP indicators next to the default product access group.
+> b. Click `Create group`.
+> i. For the name, enter `Development`.
+> ii. Optionally for the description enter `Members of Development`. 
+> iii. Select `Add members in the next step`
+> iv. Click `Create group`.
+> v. Select `Luis Beck` and `Sophie Nguyen`. 
+> vi. Click `Add`.
 * **Question**: On the Development group page, note the message on the right that says this group currently has no product access. Do you need to add product access for this group so Sophie and Luis can access the products on this site?
 * **Answer**: No, you don't need to add product access for this group. Both members already have default access to all the products on this site through their membership in the default product groups. You only need to be in one group that has product access for you to get access toa product.
 3. Explore administrators group access:

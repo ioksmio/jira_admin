@@ -6,7 +6,7 @@
 3. Click `...` on the right side of the table beside the enumurated users and choose `Manage product acces` in the depicted menu. Bookmark this Page and save it as `bookmark-Product-Access-Page`
 4. Review the existing product access and answer the questions below.
 > * **Question**: What products do new users have access to by default?
-> * **Answer**: New users have access to Jira Service Management by default. Note the green check.
+> * **Answer**: New users have access to Jira by default. Note the green check.
 > * **Question**: If a user joins your site and is given access to only Jira Software what
 group will they be placed into by default?
 > * **Answer**: A new Jira Software user will be placed into the jira-software-users group
