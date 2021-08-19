@@ -1,8 +1,9 @@
 ## Lab 4 Exercise 1 Exploring Product Access
-1. Log in to your cloud site with your  `Jira Login`.
+1. Navigate to `https://start.atlassian.com`
+> a. Click on the `Administration` Button
 > * **Note**: Remember to always log into the site assigned to you.
-2. Click on your `jira site name` under `Organisation`
-3. Click `...` on the right side of the table beside the enumurated users and choose `Manage product acces` in the depicted menu.
+2. Click on your `jira site name(YourFirstName01))` under `Organisation`
+3. Click `...` on the right side of the table beside the enumurated users and choose `Manage product acces` in the depicted menu. Bookmark this Page and save it as `bookmark-Product-Access-Page`
 4. Review the existing product access and answer the questions below.
 > * **Question**: What products do new users have access to by default?
 > * **Answer**: New users have access to Jira Service Management by default. Note the green check.
@@ -22,6 +23,5 @@ you need to know box on the right. Optionally, click `Change this setting`. View
 dropdown but don't change the setting. 
 6. To grant or deny product access requests 
 >* a. Click `Your Site Name` in the Side Bar `Access requests`.
-
 >* b. Click `Site Access`
 * **Note**: Here you can grant or deny product access requests from users. A teammate may have sent them the product URL but your site settings don't allow them to self- signup. In that case, they'll see a button to request access when they try to access your site.
