@@ -9,15 +9,14 @@ they'll have.
 
 | Name               | Role                               |  
 |--------------------|-------------------------------------
-| Site administrator | Was provided to you by your trainer|
+| Site administrator | Was provided to you by your trainer (Jira Login)|
 | Dakota Jones       | Jira administrator                 |
 | Sophie Nguyen      | Development project administrator  | 
 | Luis Beck          |Development project member          |
 | Max Taylor         | Software developer                 |
 
 To log in during the labs, you need your assigned site URL and each user's email address and 
-password. If you are taking an On Demand course, this information is provided under the "Start 
-here" tab of the course. If you are taking an instructor-led course, your instructor will provide 
+password. Your instructor will provide 
 you this information. 
 * Note: The password for every account you use in these labs is the same. Keep this 
 password easily accessible. 
