@@ -1,5 +1,5 @@
 ## Lab 4 Exercise 4 Troubleshooting a User Log in Issue
-1. Max Taylor has complained to you, the site administrator, that he can't log in to your site. He needs access to Jira Software, Jira Service Management, and Confluence.
+1. Max Taylor has complained to you, the site administrator, that he can't log in to your site. He needs access to Jira Software.
 2. As the `site administrator`, resolve the problem.
 3. See the next page for the answer.
 4. Navigate to the `Users` site administration page and click to view `Max Taylor`. Review his account settings to find and fix the problem.
